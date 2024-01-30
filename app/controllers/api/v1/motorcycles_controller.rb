@@ -12,7 +12,6 @@ class Api::V1::MotorcyclesController < ApplicationController
       end
     end
   
-    
   
     private
   
