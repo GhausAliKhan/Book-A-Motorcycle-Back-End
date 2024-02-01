@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="300px" alt="Logo">
+  <img src="https://github.com/GhausAliKhan/book-a-motorcycle-front-end/blob/feature/add-tests-and-final-touches/src/images/Logo.png?raw=true" width="350px" height="200px" alt="Logo">
 </p>
 <a name="readme-top"></a>
 
